@@ -34,7 +34,7 @@
     "react-router-dom": "^6.3.0",
     "whatwg-fetch": "3.6.2"
   },
-  "main": "app.js",
+  "main": "app.html",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dylan909/business-actions.git"
